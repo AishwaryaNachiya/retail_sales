@@ -29,7 +29,7 @@ Analyzed monthly sales to observe seasonal patterns and revenue fluctuations.
 - Helps in demand forecasting and inventory planning.  
 
 📊 **Plot:**  
-![Monthly Sales Trend](plots/monthly_sales_trend.png)  
+![Monthly Sales Trend](monthly_sales_trend.png)  
 
 ---
 
@@ -40,7 +40,7 @@ Identified top-selling product categories based on total revenue.
 - Helps prioritize inventory and marketing efforts.  
 
 📊 **Plot:**  
-![Sales by Product Category](plots/category_sales.png)  
+![Sales by Product Category](category_sales.png)  
 
 ---
 
@@ -51,10 +51,10 @@ Studied customer distribution by gender and age.
 - Enables personalized marketing and product recommendations.  
 
 📊 **Gender Sales Distribution:**  
-![Gender Sales Distribution](plots/gender_sales.png)  
+![Gender Sales Distribution](gender_sales.png)  
 
 📊 **Customer Age Distribution:**  
-![Customer Age Distribution](plots/age_distribution.png)  
+![Customer Age Distribution](age_distribution.png)  
 
 ---
 
@@ -65,7 +65,7 @@ Explored the relationship between quantity sold and price per unit.
 - Helps refine pricing strategies and promotions.  
 
 📊 **Plot:**  
-![Quantity vs Price per Unit](plots/quantity_vs_price.png)  
+![Quantity vs Price per Unit](quantity_vs_price.png)  
 
 ---
 
